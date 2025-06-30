@@ -19,7 +19,7 @@ This project demonstrates the creation and execution of a blockchain smart contr
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/smart-contract-ganache-demo.git
+   git clone https://github.com/pr-of/smart-contract-ganache-demo.git
    ```
 2. Install dependencies:
    ```bash
